@@ -1,0 +1,60 @@
+A01 
+8/13 score: set as 0 so code could run
+8/1 date changed from 78/1
+
+dodB06 missing time ending. entered as NaN
+
+A10
+no initial on 7/11. enter as n/a
+score on 7/31 seems to be 48?
+
+A09
+no time ended 7/18
+
+A08
+no time ended 7/18
+wrong hand entries (tbd about whether or not this affects the code)
+no score 8/1. entered as 7 based on chart on google sheet
+
+A05
+no time ended 7/18
+wrong hand
+
+A12
+no time ended 7/18
+
+pre A09
+no time ended 7/18
+
+pre A08
+no time ended 7/18
+no score 8/1. entered as 7 based on chart on google sheet
+wrong hand entry
+
+
+preA05
+no time ended 7/18
+wrong hand
+
+pre A02
+no score 8/13
+8/13 duplicated
+
+AA06
+no initial 7/11
+
+---- All the pre injury above are incorrect, they were duplicates. Now it's all correct
+A09 
+4/26 score recorded as "AD" instead of 0
+1/12 changed to 4/12
+
+A08
+4/10 No initial
+
+
+A05
+6/1 no score, counted 47 from original
+
+
+A12
+4/12 originally written as 1/12, which messed with week number calculation
