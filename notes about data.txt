@@ -58,3 +58,8 @@ A05
 
 A12
 4/12 originally written as 1/12, which messed with week number calculation
+
+
+-----
+baseline = 1 week previous
+get additional data from bethany pasta scores
