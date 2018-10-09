@@ -63,3 +63,37 @@ A12
 -----
 baseline = 1 week previous
 get additional data from bethany pasta scores
+
+---
+Bethany Pasta
+
+B06
+8/27 delete time start
+9/18 no time ended
+9/25 initial
+10/5 initial
+10/1 year was incorrectly entered
+fix date formats
+
+B04
+8/27 deleted time start
+9/18 no time ended
+
+AA06
+8/27 time start, no initial
+9/18 no time ended
+
+AA05
+8/27 time start
+
+AA01
+8/27 time start
+fix date formats
+
+A10
+9/19 removed ? from score
+
+A01
+9/19 no initial
+
+
